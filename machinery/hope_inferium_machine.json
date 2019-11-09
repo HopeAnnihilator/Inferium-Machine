@@ -1,0 +1,71 @@
+{
+    "localizedname": "Inferium Machine",
+    "registryName": "hope_inferium_machine",
+    "color": "6AFF24",
+    "parts": [
+        {
+            "x": [-2,-1,0,1,2],
+            "y": [-1,1],
+            "z": [0,1,2],
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": [1,-1],
+            "y": 0,
+            "z": [0,2],
+            "elements": [
+                "modularmachinery:blockcasing@2"
+            ]
+        },
+                {
+            "x": [2,-2],
+            "y": 0,
+            "z": [0,2],
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+                {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+                {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": [-1,1],
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:lapis_block"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "extrautils2:compresseddirt"
+            ]
+        }
+    ]
+}
