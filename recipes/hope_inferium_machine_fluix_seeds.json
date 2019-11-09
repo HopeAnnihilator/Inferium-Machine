@@ -1,0 +1,24 @@
+{
+    "machine": "hope_inferium_machine",
+    "registryName": "hope_fluix_seeds",
+    "recipeTime": 20,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "mysticalagriculture:fluix_seeds",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mysticalagriculture:fluix_seeds",
+            "amount": 2
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1024
+        }
+    ]
+}
